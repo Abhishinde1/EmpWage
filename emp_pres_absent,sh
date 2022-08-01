@@ -1,8 +1,5 @@
 #!/bin/bash
 
-ispresent=1
-isabscent=0
-
 empcheck=$(($RANDOM%2))
 if (($empcheck==1))
 then
